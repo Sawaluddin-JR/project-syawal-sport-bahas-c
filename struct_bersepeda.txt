@@ -1,0 +1,15 @@
+Nama pembeli                  : SAWALUDDIN SIREGAR
+No.Hp                         : 0877786768768
+Usia                          : 17 tahun
+Total Sepeda United           : 0           : Rp 225000
+Total  Helm                   : 0           : Rp 0
+Total Pelindung lutut         : 0           : Rp 0
+Total Bike glives             : 9           : Rp 0
+Total Tas Kacamata pelindung  : 0           : Rp 0
+Total Sepatu Adidas           : 0           : Rp 0
+Total                         : 9           : Rp 225000
+Total Ongkir                                : Rp 111435
+Total keseluruhan                           : Rp 336435
+Potongan harga                              : Rp 0
+Total belanja                               : Rp 225000
+Total keseluruhan                           : Rp 225010

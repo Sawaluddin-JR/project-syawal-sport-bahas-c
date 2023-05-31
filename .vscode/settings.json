@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "PILIH.C": "cpp",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "windows.h": "c",
+        "stdbool.h": "c"
+    }
+}

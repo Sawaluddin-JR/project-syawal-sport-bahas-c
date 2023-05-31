@@ -1,0 +1,12 @@
+Nama pembeli                  : YANTI NURHAYANTI
+No.Hp                         : 082172316332
+Usia                          : 19 tahun
+Total Sepeda United           : 2           : Rp 0
+Total  Helm                   : 0           : Rp 0
+Total Pelindung lutut         : 0           : Rp 0
+Total Bike glives             : 6           : Rp 0
+Total Tas Kacamata pelindung  : 0           : Rp 0
+Total Sepatu Adidas           : 0           : Rp 0
+Total                         : 8           : Rp 0
+Total Ongkir                                : Rp 800
+Total keseluruhan                           : Rp 800

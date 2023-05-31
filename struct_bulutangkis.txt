@@ -1,0 +1,16 @@
+Nama pembeli                  : AZHARI FAHREZA LUBIS
+No.Hp                         : 0877672398745
+Usia                          : 19 tahun
+Total Raket Yonex             : 0           : Rp 720000
+Total Shuttlecock(bola)       : 0           : Rp 0
+Total Deker                   : 0           : Rp 0
+Total Net atau Jaring         : 0           : Rp 0
+Total Tas Sporty Yonex        : 6           : Rp 0
+Total Sepatu Yonex            : 0           : Rp 0
+Total belanja                 : 6           : Rp 720000
+Total Ongkir                                : Rp 14500
+Total                                       : Rp 734500
+Potongan harga                              : Rp 20000
+Total belanja                               : Rp 700000
+Total Ongkir                                : Rp 14500
+Total keseluruhan                           : Rp 714500
